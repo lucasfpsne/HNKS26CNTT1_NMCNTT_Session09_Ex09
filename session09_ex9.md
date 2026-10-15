@@ -41,7 +41,7 @@ Output (Đầu ra): Một file `README.md` hoàn chỉnh được lưu trên Git
 
 Đã tạo file gồm đầy đủ 5 phần theo yêu cầu, có bảng email `mailto:`, Code Block Git, Task List và Blockquote.
 
-[CLB Lập Trình PTIT](https://github.com/lucasfpsne/HNKS26CNTT1_NMCNTT_Session09_Ex09/blob/main/README.md)
+**[CLB Lập Trình PTIT](https://github.com/lucasfpsne/HNKS26CNTT1_NMCNTT_Session09_Ex09/blob/main/README.md)**
 
 Các tên trưởng ban, địa chỉ email và thời hạn trong file là thông tin minh họa, cần thay bằng thông tin chính thức trước khi đăng lên GitHub.
 
